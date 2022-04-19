@@ -1,3 +1,6 @@
+import React from 'react';
+import './components/styles/index.css';
+import App from './App';
 import { render, screen } from '@testing-library/react';
 import App from './App';
 

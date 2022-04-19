@@ -1,0 +1,31 @@
+
+.container_principal{
+    background-color: #515154;
+}
+
+.nav_bar{
+    display: flex;
+    margin: 0 auto;
+    width: 60%;
+    justify-content: space-between;
+    padding: 0.6em ;
+}
+.div_header2{
+    display: flex;
+    font-size:0.9em;
+}
+.div_header{
+    display: flex;
+    font-size: 1.3em;
+    color: #fff;
+    padding: 5px 2px ;
+    justify-content: space-evenly;
+
+}
+.nombre{
+    font-size: 2.4em;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+
